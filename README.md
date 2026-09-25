@@ -1,10 +1,10 @@
-# Project Title
+ChungBot
 
 Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Learning project creating an artificial intelligence chat bot implementing chat interface and ai model training.
 
 ## Getting Started
 
