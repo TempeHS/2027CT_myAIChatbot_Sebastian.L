@@ -1,10 +1,11 @@
 ## ChungBot
 
-Simple overview of use/purpose.
+Learning project creating an artificial intelligence chat bot implementing chat interface and ai model training.
 
 ## Description
 
-Learning project creating an artificial intelligence chat bot implementing chat interface and ai model training.
+This chat bot is designed to provide coding and grammatical assistance for academic and software implementation tasks. I aim to create a chat bot that has specialist knowledge and is able to engage conceptually within academic topics.  A wide and nuanced variety of training data would provide a chat bot with valuable and novel outputs.
+
 
 ## Getting Started
 
@@ -37,8 +38,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Mr Jones
-ex. [@benpaddlejones](https://github.com/benpaddlejones)
+ex. Sebastian Lam
+ex. [@sebbylam](https://github.com/SebbyLam)
 
 ## Version History
 
@@ -50,7 +51,7 @@ ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GNU GPL v3.0 License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
