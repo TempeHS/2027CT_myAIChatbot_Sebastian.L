@@ -38,8 +38,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Sebastian Lam
-ex. [@sebbylam](https://github.com/SebbyLam)
+Sebastian Lam
+[@sebbylam](https://github.com/SebbyLam)
 
 ## Version History
 
