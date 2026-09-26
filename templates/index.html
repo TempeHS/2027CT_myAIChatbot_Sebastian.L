@@ -73,7 +73,6 @@
                 class="form-control"
                 placeholder="Type your message..."
                 autocomplete="off"
-                maxlength="500"
               />
               <button type="submit" class="btn btn-dark">Send</button>
             </div>
@@ -108,7 +107,6 @@
 
         const message = messageInput.value.trim();
         if (!message) return;
-
         // Add user message to chat
         addMessage(message, true);
         messageInput.value = "";
